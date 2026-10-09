@@ -13,7 +13,7 @@ Make sure you have Node.js installed on your computer.
 
 ## 🚀 Installation & Setup
 1. Clone the repository:
-   git clone https://github.com/antpap30/The-Simon-Game.git
+   git clone https://github.com/antpap30/QR-Code-Generator-CLI-.git
 
 2. Navigate to the project directory:
    cd path/to/your/folder
